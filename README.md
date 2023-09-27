@@ -8,7 +8,7 @@ The prime numbers used in this project are obtained from [The Prime Pages](https
 ## How to Run
 1. Clone this repository.
 2. Download the prime numbers from The Prime Pages and save them as text files.
-3. Replace `'prime1.txt'` and `'prime2.txt'` in the Python script with the paths to your actual files containing the prime numbers (which can be downloaded from [src](https://github.com/kickereb/Prime-Birth/src)).
+3. Replace `'prime1.txt'` and `'prime2.txt'` in the Python script with the paths to your actual files containing the prime numbers (which can be downloaded from [src](https://github.com/kickereb/Prime-Birth/tree/main/src)).
 4. Run the Python script in an environment where Python and pandas are installed and have necessary permissions to read your files.
 
 ## Features
