@@ -26,7 +26,7 @@ Enter the year: 1999 <br>
 
 ### Output
 
-   January  February  March  April   May  June  July  August  September  \
+```   January  February  March  April   May  June  July  August  September  \
 0      8.0       5.0    1.0    5.0   2.0   4.0   2.0     4.0        7.0   
 1     14.0       7.0    3.0   11.0   5.0   9.0   6.0    25.0       22.0   
 2     15.0       8.0   13.0   12.0  19.0  22.0  14.0     NaN        NaN   
@@ -42,7 +42,7 @@ Enter the year: 1999 <br>
 3     30.0      20.0        21  
 4      NaN       NaN        28  
 5      NaN       NaN        30  
-6      NaN       NaN        31  
+6      NaN       NaN        31 ```
 
 Total number of prime birthdays for each Zodiac sign from the year 0000 to the year of interest are:
 Capricorn: 12192
