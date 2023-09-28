@@ -26,8 +26,40 @@ Enter the year: 1999
 
 ### Output
 
+Enter the year: 1999
+   January  February  March  April   May  June  July  August  September  \
+0      8.0       5.0    1.0    5.0   2.0   4.0   2.0     4.0        7.0   
+1     14.0       7.0    3.0   11.0   5.0   9.0   6.0    25.0       22.0   
+2     15.0       8.0   13.0   12.0  19.0  22.0  14.0     NaN        NaN   
+3     17.0      13.0   16.0   23.0   NaN   NaN  23.0     NaN        NaN   
+4      NaN      20.0    NaN    NaN   NaN   NaN  27.0     NaN        NaN   
+5      NaN      26.0    NaN    NaN   NaN   NaN   NaN     NaN        NaN   
+6      NaN       NaN    NaN    NaN   NaN   NaN   NaN     NaN        NaN   
 
-In this example, `xxxxx` represents the number of prime birthdays for each Zodiac sign from the year `0000` to `9999`. The DataFrame shows the prime birthdays for each month in the year `1999`. If a day is prime, it is filled with the day number; otherwise, it is `NaN`.
+   October  November  December  
+0      3.0       5.0         7  
+1      9.0      16.0         9  
+2     23.0      19.0        10  
+3     30.0      20.0        21  
+4      NaN       NaN        28  
+5      NaN       NaN        30  
+6      NaN       NaN        31  
+
+Total number of prime birthdays for each Zodiac sign from the year 0000 to the year of interest are:
+Capricorn: 12192
+Aquarius: 18858
+Pisces: 18745
+Aries: 18738
+Taurus: 19383
+Gemini: 19272
+Cancer: 19985
+Leo: 19451
+Virgo: 19436
+Libra: 18810
+Scorpio: 18617
+Sagittarius: 18694
+
+The DataFrame shows the prime birthdays for each month in the year `1999`. If a day is prime, it is filled with the day number; otherwise, it is `NaN`.
 
 ## Future Work
 - Optimize the program to run faster.
