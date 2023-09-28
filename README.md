@@ -16,6 +16,19 @@ The prime numbers used in this project are obtained from [The Prime Pages](https
 - Outputs the list in a pandas DataFrame where each column is a month and each row is a day of the month.
 - Calculates the total number of prime birthdays for each Zodiac sign from the year 0000 to 9999.
 
+## Examples
+
+Here is an example of how to use this program:
+
+### Input
+
+Enter the year: 1999
+
+### Output
+
+
+In this example, `xxxxx` represents the number of prime birthdays for each Zodiac sign from the year `0000` to `9999`. The DataFrame shows the prime birthdays for each month in the year `1999`. If a day is prime, it is filled with the day number; otherwise, it is `NaN`.
+
 ## Future Work
 - Optimize the program to run faster.
 - Create an interactive website where users can play around with the variables.
