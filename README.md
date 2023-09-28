@@ -22,11 +22,10 @@ Here is an example of how to use this program:
 
 ### Input
 
-Enter the year: 1999
+Enter the year: 1999 <br>
 
 ### Output
 
-Enter the year: 1999
    January  February  March  April   May  June  July  August  September  \
 0      8.0       5.0    1.0    5.0   2.0   4.0   2.0     4.0        7.0   
 1     14.0       7.0    3.0   11.0   5.0   9.0   6.0    25.0       22.0   
